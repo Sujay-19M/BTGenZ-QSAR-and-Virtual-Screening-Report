@@ -76,7 +76,3 @@ Activity Prediction
 Virtual Screening
        ↓
 Candidate Ranking & Analysis
-🚀 <strong>Visit the Live Project</strong>
-</a>
-
-</p>
