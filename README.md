@@ -42,7 +42,7 @@ Instead of presenting QSAR results only through spreadsheets, statistical output
 
 ### 👉 Live Project
 
-https://sujay-19m.github.io/btgenz-qsar-and-virtual-screening-report/
+https://sujay-19m.github.io/BTGenZ-QSAR-and-Virtual-Screening-Report
 
 ---
 
