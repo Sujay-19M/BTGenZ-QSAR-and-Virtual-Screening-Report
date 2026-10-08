@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://sujay-19m.github.io/btgenz-qsar-and-virtual-screening-report/">
+  <a href="https://sujay-19m.github.io/BTGenZ-QSAR-and-Virtual-Screening-Report">
     <img src="https://img.shields.io/badge/🔬%20View%20Live%20Project-QSAR%20%26%20Virtual%20Screening-0A7EA4?style=for-the-badge" alt="View Live QSAR Project">
   </a>
 </p>
@@ -35,7 +35,7 @@ Instead of presenting QSAR results only through spreadsheets, statistical output
 # 🚀 Explore the Live Project
 
 <p align="center">
-  <a href="https://sujay-19m.github.io/btgenz-qsar-and-virtual-screening-report/">
+  <a href="https://sujay-19m.github.io/BTGenZ-QSAR-and-Virtual-Screening-Report">
     <img src="https://img.shields.io/badge/OPEN%20LIVE%20PROJECT-Explore%20QSAR%20%26%20Virtual%20Screening-success?style=for-the-badge" alt="Open QSAR and Virtual Screening Project">
   </a>
 </p>
