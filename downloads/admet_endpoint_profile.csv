@@ -1,0 +1,2 @@
+SMILES,Formula,Status,MW (g/mol),LogP,TPSA (Å²),HBD,HBA,Rotatable Bonds,ESOL LogS,ESOL Class,GI Absorption,BBB Permeability,Safety Risk Level,Ames Alert,hERG Alert,PAINS Alerts,Brenk Alerts,In AD
+CC(C)Cc1ccc(C(C)C(=O)O)cc1,C13H18O2,SUCCESS,206.28,3.07,37.3,1,1,4,-3.054,Moderately Soluble,High,High (CNS+),Low,False,False,0,0,True

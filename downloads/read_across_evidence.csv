@@ -1,0 +1,9 @@
+query_smiles,query_scaffold,predicted_activity,estimated_activity,uncertainty_std,max_similarity,mean_similarity,reliability_status,reference_evidence_df,warnings,provenance
+CC(C)Cc1ccc(cc1)C(C)C(=O)O,c1ccccc1,6.6359,6.6359,2.45,0.2941,0.2622,LOW_CONFIDENCE (OUTSIDE AD),"    compound_id            smiles  ...  alert_details  weight
+0  Compound_180  O=C(O)CCc1ccccc1  ...           None  0.2941
+1  Compound_253   O=C(O)Cc1ccccc1  ...           None  0.2727
+2  Compound_323   NC(=O)Cc1ccccc1  ...           None  0.2571
+3  Compound_368  O=C(O)CCc1cccnc1  ...           None  0.2439
+4  Compound_152  NC(=O)CCc1ccccc1  ...           None  0.2432
+
+[5 rows x 13 columns]","['Low similarity warning: Max Tanimoto similarity (0.2941) is below threshold (0.50). Read-across prediction may be outside domain of applicability.', 'Low average similarity warning: Mean similarity of top 5 analogues is 0.2622.', 'High activity variance warning: Reference activity std dev (2.4500) is high, suggesting activity cliffs among reference analogues.']","{'query_smiles': 'CC(C)Cc1ccc(cc1)C(C)C(=O)O', 'query_scaffold': 'c1ccccc1', 'fp_type': 'morgan', 'radius': 2, 'n_bits': 2048, 'top_k': 5, 'similarity_threshold': 0.5, 'power_weighting': 1.0, 'timestamp_utc': '2026-10-04T08:00:26.308724+00:00', 'reference_dataset_summary': {'num_reference_compounds_evaluated': 392, 'min_reference_activity': 4.017, 'max_reference_activity': 10.677}, 'selected_reference_ids': ['Compound_180', 'Compound_253', 'Compound_323', 'Compound_368', 'Compound_152'], 'similarity_scores': [0.29411764705882354, 0.2727272727272727, 0.2571428571428571, 0.24390243902439024, 0.24324324324324326], 'reference_activities': [4.031499999999999, 10.5105, 7.1805, 4.105499999999999, 7.4025]}"

@@ -1,0 +1,6 @@
+compound_id,smiles,tanimoto_similarity,known_activity,bemis_murcko_scaffold,Compound_ID,SMILES,Tanimoto_Similarity,Known_Activity,Bemis_Murcko_Scaffold
+Compound_180,O=C(O)CCc1ccccc1,0.2941176470588235,4.031499999999999,c1ccccc1,Compound_180,O=C(O)CCc1ccccc1,0.2941176470588235,4.031499999999999,c1ccccc1
+Compound_253,O=C(O)Cc1ccccc1,0.2727272727272727,10.5105,c1ccccc1,Compound_253,O=C(O)Cc1ccccc1,0.2727272727272727,10.5105,c1ccccc1
+Compound_323,NC(=O)Cc1ccccc1,0.2571428571428571,7.1805,c1ccccc1,Compound_323,NC(=O)Cc1ccccc1,0.2571428571428571,7.1805,c1ccccc1
+Compound_368,O=C(O)CCc1cccnc1,0.2439024390243902,4.105499999999999,c1ccncc1,Compound_368,O=C(O)CCc1cccnc1,0.2439024390243902,4.105499999999999,c1ccncc1
+Compound_152,NC(=O)CCc1ccccc1,0.2432432432432433,7.4025,c1ccccc1,Compound_152,NC(=O)CCc1ccccc1,0.2432432432432433,7.4025,c1ccccc1

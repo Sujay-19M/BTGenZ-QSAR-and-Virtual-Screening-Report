@@ -1,0 +1,13 @@
+smiles_1,smiles_2,tanimoto_similarity,activity_1,activity_2,delta_activity,abs_delta_activity,is_activity_cliff,scaffold_1,scaffold_2
+CCCCCCc1cccc2ccccc12,CCCCCc1cccc2ccccc12,0.9615,7.955,6.179,-1.776,1.776,True,c1ccc2ccccc2c1,c1ccc2ccccc2c1
+NCCCCc1cccnc1,NCCCCCc1cccnc1,0.9615,6.0045,7.7805,1.776,1.776,True,c1ccncc1,c1ccncc1
+NCCCCCc1ccccn1,NCCCCc1ccccn1,0.96,7.836,6.06,-1.776,1.776,True,c1ccncc1,c1ccncc1
+CCCCCCc1ccccn1,CCCCCc1ccccn1,0.96,7.918,6.142,-1.776,1.776,True,c1ccncc1,c1ccncc1
+NCCCCc1ccccc1,NCCCCCc1ccccc1,0.95,5.9305,7.7065,1.776,1.776,True,c1ccccc1,c1ccccc1
+NCCCCc1cccnc1,NCCCc1cccnc1,0.8846,6.0045,4.4915,-1.513,1.513,True,c1ccncc1,c1ccncc1
+CCCCc1cccc2ccccc12,CCCCCc1cccc2ccccc12,0.8846,7.511,6.179,-1.332,1.332,True,c1ccc2ccccc2c1,c1ccc2ccccc2c1
+NCCCCc1ccccn1,NCCCc1ccccn1,0.88,6.06,4.547,-1.513,1.513,True,c1ccncc1,c1ccncc1
+NCCCCCc1cccc2ccccc12,NCCCc1cccc2ccccc12,0.8519,7.873,4.584,-3.289,3.289,True,c1ccc2ccccc2c1,c1ccc2ccccc2c1
+CCCCc1cccc2ccccc12,CCCCCCc1cccc2ccccc12,0.8519,7.511,7.955,0.444,0.444,False,c1ccc2ccccc2c1,c1ccc2ccccc2c1
+NCCCCCc1cccnc1,NCCCc1cccnc1,0.8519,7.7805,4.4915,-3.289,3.289,True,c1ccncc1,c1ccncc1
+NCCCCc1ccccc1,NCCCc1ccccc1,0.85,5.9305,4.4175,-1.513,1.513,True,c1ccccc1,c1ccccc1

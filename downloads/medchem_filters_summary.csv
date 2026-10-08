@@ -1,0 +1,491 @@
+SMILES,MedChem Status,Lipinski,Lipinski Violations,Veber,Ghose,Egan,Muegge,PAINS,PAINS Alerts,Brenk,Brenk Alerts,QED,QED Category,SA Score,SA Category
+Brc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.619,Moderate drug-likeness,2.94,Easy to synthesize
+Brc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.542,Moderate drug-likeness,1.58,Easy to synthesize
+Brc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,2-halo_pyridine,0.525,Moderate drug-likeness,1.58,Easy to synthesize
+Brc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.561,Moderate drug-likeness,1.58,Easy to synthesize
+CCCCCCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.614,Moderate drug-likeness,3.14,Easy to synthesize
+CCCCCCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.577,Moderate drug-likeness,2.28,Easy to synthesize
+CCCCCCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.607,Moderate drug-likeness,2.28,Easy to synthesize
+CCCCCCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.607,Moderate drug-likeness,2.28,Easy to synthesize
+CCCCCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.631,Moderate drug-likeness,3.1,Easy to synthesize
+CCCCCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.574,Moderate drug-likeness,2.24,Easy to synthesize
+CCCCCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.6,Moderate drug-likeness,2.24,Easy to synthesize
+CCCCCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.6,Moderate drug-likeness,2.24,Easy to synthesize
+CCCCOc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.677,High drug-likeness,3.1,Easy to synthesize
+CCCCOc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.6,Moderate drug-likeness,2.24,Easy to synthesize
+CCCCOc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.616,Moderate drug-likeness,1.74,Easy to synthesize
+CCCCOc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.616,Moderate drug-likeness,1.74,Easy to synthesize
+CCCCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.671,High drug-likeness,3.06,Easy to synthesize
+CCCCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.596,Moderate drug-likeness,2.2,Easy to synthesize
+CCCCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.62,Moderate drug-likeness,1.7,Easy to synthesize
+CCCCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.62,Moderate drug-likeness,1.7,Easy to synthesize
+CCCNC(=O)c1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,PASS,PASS,None,PASS,None,0.834,High drug-likeness,2.64,Easy to synthesize
+CCCNC(=O)c1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.723,High drug-likeness,1.78,Easy to synthesize
+CCCNC(=O)c1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.729,High drug-likeness,1.78,Easy to synthesize
+CCCNC(=O)c1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.729,High drug-likeness,1.78,Easy to synthesize
+CCCNCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.745,High drug-likeness,3.1,Easy to synthesize
+CCCNCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.647,Moderate drug-likeness,2.24,Easy to synthesize
+CCCNCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.659,Moderate drug-likeness,1.74,Easy to synthesize
+CCCNCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.659,Moderate drug-likeness,1.74,Easy to synthesize
+CCCNc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.769,High drug-likeness,3.06,Easy to synthesize
+CCCNc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.671,High drug-likeness,1.7,Easy to synthesize
+CCCNc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.686,High drug-likeness,1.7,Easy to synthesize
+CCCNc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.686,High drug-likeness,1.7,Easy to synthesize
+CCCOC(=O)c1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,PASS,PASS,None,PASS,None,0.732,High drug-likeness,2.64,Easy to synthesize
+CCCOC(=O)c1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.64,Moderate drug-likeness,1.78,Easy to synthesize
+CCCOC(=O)c1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.639,Moderate drug-likeness,1.78,Easy to synthesize
+CCCOC(=O)c1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.639,Moderate drug-likeness,1.78,Easy to synthesize
+CCCOCCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.688,High drug-likeness,3.14,Easy to synthesize
+CCCOCCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.608,Moderate drug-likeness,2.28,Easy to synthesize
+CCCOCCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.623,Moderate drug-likeness,1.78,Easy to synthesize
+CCCOCCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.623,Moderate drug-likeness,1.78,Easy to synthesize
+CCCOc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.711,High drug-likeness,3.06,Easy to synthesize
+CCCOc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.62,Moderate drug-likeness,1.7,Easy to synthesize
+CCCOc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.634,Moderate drug-likeness,1.7,Easy to synthesize
+CCCOc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.634,Moderate drug-likeness,1.7,Easy to synthesize
+CCCSc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.667,Moderate drug-likeness,3.06,Easy to synthesize
+CCCSc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.599,Moderate drug-likeness,1.7,Easy to synthesize
+CCCSc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.619,Moderate drug-likeness,1.7,Easy to synthesize
+CCCSc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.619,Moderate drug-likeness,1.7,Easy to synthesize
+CCCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.643,Moderate drug-likeness,3.02,Easy to synthesize
+CCCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.562,Moderate drug-likeness,2.16,Easy to synthesize
+CCCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.583,Moderate drug-likeness,1.66,Easy to synthesize
+CCCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.583,Moderate drug-likeness,1.66,Easy to synthesize
+CCNC(=O)c1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.791,High drug-likeness,2.6,Easy to synthesize
+CCNC(=O)c1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.677,High drug-likeness,1.74,Easy to synthesize
+CCNC(=O)c1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.678,High drug-likeness,1.74,Easy to synthesize
+CCNC(=O)c1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.678,High drug-likeness,1.74,Easy to synthesize
+CCNCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.775,High drug-likeness,3.06,Easy to synthesize
+CCNCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.666,Moderate drug-likeness,1.7,Easy to synthesize
+CCNCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.675,High drug-likeness,1.7,Easy to synthesize
+CCNCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.675,High drug-likeness,1.7,Easy to synthesize
+CCNc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.731,High drug-likeness,3.02,Easy to synthesize
+CCNc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.632,Moderate drug-likeness,1.66,Easy to synthesize
+CCNc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.643,Moderate drug-likeness,1.66,Easy to synthesize
+CCNc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.643,Moderate drug-likeness,1.66,Easy to synthesize
+CCOC(=O)c1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,PASS,PASS,None,PASS,None,0.696,High drug-likeness,2.6,Easy to synthesize
+CCOC(=O)c1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.601,Moderate drug-likeness,1.74,Easy to synthesize
+CCOC(=O)c1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.597,Moderate drug-likeness,1.74,Easy to synthesize
+CCOC(=O)c1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.597,Moderate drug-likeness,1.74,Easy to synthesize
+CCOCCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.687,High drug-likeness,3.1,Easy to synthesize
+CCOCCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.598,Moderate drug-likeness,2.24,Easy to synthesize
+CCOCCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.61,Moderate drug-likeness,1.74,Easy to synthesize
+CCOCCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.61,Moderate drug-likeness,1.74,Easy to synthesize
+CCOc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.675,High drug-likeness,3.02,Easy to synthesize
+CCOc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.583,Moderate drug-likeness,1.66,Easy to synthesize
+CCOc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.594,Moderate drug-likeness,1.66,Easy to synthesize
+CCOc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.594,Moderate drug-likeness,1.66,Easy to synthesize
+CCSc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.643,Moderate drug-likeness,3.02,Easy to synthesize
+CCSc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.566,Moderate drug-likeness,1.66,Easy to synthesize
+CCSc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.582,Moderate drug-likeness,1.66,Easy to synthesize
+CCSc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.582,Moderate drug-likeness,1.66,Easy to synthesize
+CCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.593,Moderate drug-likeness,2.98,Easy to synthesize
+CCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.515,Moderate drug-likeness,2.12,Easy to synthesize
+CCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.531,Moderate drug-likeness,1.62,Easy to synthesize
+CCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.531,Moderate drug-likeness,1.62,Easy to synthesize
+CNC(=O)c1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.725,High drug-likeness,2.56,Easy to synthesize
+CNC(=O)c1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.612,Moderate drug-likeness,1.7,Easy to synthesize
+CNC(=O)c1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.608,Moderate drug-likeness,1.7,Easy to synthesize
+CNC(=O)c1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.608,Moderate drug-likeness,1.7,Easy to synthesize
+CNCCCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.746,High drug-likeness,3.1,Easy to synthesize
+CNCCCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.644,Moderate drug-likeness,2.24,Easy to synthesize
+CNCCCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.653,Moderate drug-likeness,1.74,Easy to synthesize
+CNCCCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.653,Moderate drug-likeness,1.74,Easy to synthesize
+CNCCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.775,High drug-likeness,3.06,Easy to synthesize
+CNCCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.661,Moderate drug-likeness,1.7,Easy to synthesize
+CNCCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.666,Moderate drug-likeness,1.7,Easy to synthesize
+CNCCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.666,Moderate drug-likeness,1.7,Easy to synthesize
+CNCOc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,het-C-het_not_in_ring,0.745,High drug-likeness,2.56,Easy to synthesize
+CNCOc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,het-C-het_not_in_ring,0.633,Moderate drug-likeness,1.7,Easy to synthesize
+CNCOc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,het-C-het_not_in_ring,0.622,Moderate drug-likeness,1.7,Easy to synthesize
+CNCOc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,het-C-het_not_in_ring,0.622,Moderate drug-likeness,1.7,Easy to synthesize
+CNCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.732,High drug-likeness,3.02,Easy to synthesize
+CNCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.623,Moderate drug-likeness,1.66,Easy to synthesize
+CNCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.627,Moderate drug-likeness,1.66,Easy to synthesize
+CNCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.627,Moderate drug-likeness,1.66,Easy to synthesize
+CNNC(=O)c1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,PASS,PASS,None,FAIL,Oxygen-nitrogen_single_bond,0.724,High drug-likeness,2.6,Easy to synthesize
+CNNC(=O)c1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Oxygen-nitrogen_single_bond,0.604,Moderate drug-likeness,1.74,Easy to synthesize
+CNNC(=O)c1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Oxygen-nitrogen_single_bond,0.582,Moderate drug-likeness,1.74,Easy to synthesize
+CNNC(=O)c1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Oxygen-nitrogen_single_bond,0.582,Moderate drug-likeness,1.74,Easy to synthesize
+CNNCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Oxygen-nitrogen_single_bond,0.717,High drug-likeness,2.56,Easy to synthesize
+CNNCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Oxygen-nitrogen_single_bond,0.603,Moderate drug-likeness,1.7,Easy to synthesize
+CNNCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Oxygen-nitrogen_single_bond,0.588,Moderate drug-likeness,1.7,Easy to synthesize
+CNNCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Oxygen-nitrogen_single_bond,0.588,Moderate drug-likeness,1.7,Easy to synthesize
+CNNc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Oxygen-nitrogen_single_bond,0.68,High drug-likeness,2.52,Easy to synthesize
+CNNc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Oxygen-nitrogen_single_bond,0.576,Moderate drug-likeness,1.66,Easy to synthesize
+CNNc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Oxygen-nitrogen_single_bond,0.566,Moderate drug-likeness,1.66,Easy to synthesize
+CNNc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Oxygen-nitrogen_single_bond,0.566,Moderate drug-likeness,1.66,Easy to synthesize
+CNOC(=O)c1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,PASS,PASS,None,FAIL,Oxygen-nitrogen_single_bond,0.756,High drug-likeness,2.6,Easy to synthesize
+CNOC(=O)c1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Oxygen-nitrogen_single_bond,0.64,Moderate drug-likeness,1.74,Easy to synthesize
+CNOC(=O)c1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Oxygen-nitrogen_single_bond,0.622,Moderate drug-likeness,1.74,Easy to synthesize
+CNOC(=O)c1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Oxygen-nitrogen_single_bond,0.622,Moderate drug-likeness,1.74,Easy to synthesize
+CNOCCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,PASS,PASS,None,FAIL,"Aliphatic_long_chain, Oxygen-nitrogen_single_bond",0.606,Moderate drug-likeness,2.6,Easy to synthesize
+CNOCCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"Aliphatic_long_chain, Oxygen-nitrogen_single_bond",0.518,Moderate drug-likeness,1.74,Easy to synthesize
+CNOCCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"Aliphatic_long_chain, Oxygen-nitrogen_single_bond",0.511,Moderate drug-likeness,1.74,Easy to synthesize
+CNOCCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"Aliphatic_long_chain, Oxygen-nitrogen_single_bond",0.511,Moderate drug-likeness,1.74,Easy to synthesize
+CNSc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,sulphur_nitrogen_single_bond,0.729,High drug-likeness,2.52,Easy to synthesize
+CNSc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,sulphur_nitrogen_single_bond,0.628,Moderate drug-likeness,1.66,Easy to synthesize
+CNSc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,sulphur_nitrogen_single_bond,0.627,Moderate drug-likeness,1.66,Easy to synthesize
+CNSc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,sulphur_nitrogen_single_bond,0.627,Moderate drug-likeness,1.66,Easy to synthesize
+CNc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.671,High drug-likeness,2.98,Easy to synthesize
+CNc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.576,Moderate drug-likeness,1.62,Easy to synthesize
+CNc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.583,Moderate drug-likeness,1.62,Easy to synthesize
+CNc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.583,Moderate drug-likeness,1.62,Easy to synthesize
+COC(=O)c1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.64,Moderate drug-likeness,2.56,Easy to synthesize
+COC(=O)c1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.546,Moderate drug-likeness,1.7,Easy to synthesize
+COC(=O)c1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.539,Moderate drug-likeness,1.7,Easy to synthesize
+COC(=O)c1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.539,Moderate drug-likeness,1.7,Easy to synthesize
+COCCCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.687,High drug-likeness,3.1,Easy to synthesize
+COCCCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.598,Moderate drug-likeness,2.24,Easy to synthesize
+COCCCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.61,Moderate drug-likeness,1.74,Easy to synthesize
+COCCCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.61,Moderate drug-likeness,1.74,Easy to synthesize
+COCCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.716,High drug-likeness,3.06,Easy to synthesize
+COCCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.616,Moderate drug-likeness,1.7,Easy to synthesize
+COCCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.626,Moderate drug-likeness,1.7,Easy to synthesize
+COCCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.626,Moderate drug-likeness,1.7,Easy to synthesize
+COCOc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,het-C-het_not_in_ring,0.689,High drug-likeness,2.56,Easy to synthesize
+COCOc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,het-C-het_not_in_ring,0.591,Moderate drug-likeness,1.7,Easy to synthesize
+COCOc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,het-C-het_not_in_ring,0.587,Moderate drug-likeness,1.7,Easy to synthesize
+COCOc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,het-C-het_not_in_ring,0.587,Moderate drug-likeness,1.7,Easy to synthesize
+COCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.676,High drug-likeness,3.02,Easy to synthesize
+COCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.581,Moderate drug-likeness,1.66,Easy to synthesize
+COCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.59,Moderate drug-likeness,1.66,Easy to synthesize
+COCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.59,Moderate drug-likeness,1.66,Easy to synthesize
+CONC(=O)c1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,PASS,PASS,None,FAIL,Oxygen-nitrogen_single_bond,0.756,High drug-likeness,2.6,Easy to synthesize
+CONC(=O)c1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Oxygen-nitrogen_single_bond,0.64,Moderate drug-likeness,1.74,Easy to synthesize
+CONC(=O)c1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Oxygen-nitrogen_single_bond,0.623,Moderate drug-likeness,1.74,Easy to synthesize
+CONC(=O)c1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Oxygen-nitrogen_single_bond,0.623,Moderate drug-likeness,1.74,Easy to synthesize
+CONCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Oxygen-nitrogen_single_bond,0.745,High drug-likeness,2.56,Easy to synthesize
+CONCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Oxygen-nitrogen_single_bond,0.635,Moderate drug-likeness,1.7,Easy to synthesize
+CONCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Oxygen-nitrogen_single_bond,0.625,Moderate drug-likeness,1.7,Easy to synthesize
+CONCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Oxygen-nitrogen_single_bond,0.625,Moderate drug-likeness,1.7,Easy to synthesize
+CONc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Oxygen-nitrogen_single_bond,0.705,High drug-likeness,2.52,Easy to synthesize
+CONc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Oxygen-nitrogen_single_bond,0.604,Moderate drug-likeness,1.66,Easy to synthesize
+CONc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Oxygen-nitrogen_single_bond,0.598,Moderate drug-likeness,1.66,Easy to synthesize
+CONc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Oxygen-nitrogen_single_bond,0.598,Moderate drug-likeness,1.66,Easy to synthesize
+COOC(=O)c1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,PASS,PASS,None,FAIL,"Oxygen-nitrogen_single_bond, peroxide",0.554,Moderate drug-likeness,2.6,Easy to synthesize
+COOC(=O)c1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"Oxygen-nitrogen_single_bond, peroxide",0.474,Low drug-likeness,1.74,Easy to synthesize
+COOC(=O)c1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"Oxygen-nitrogen_single_bond, peroxide",0.465,Low drug-likeness,1.74,Easy to synthesize
+COOC(=O)c1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"Oxygen-nitrogen_single_bond, peroxide",0.465,Low drug-likeness,1.74,Easy to synthesize
+COOCCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,PASS,PASS,None,FAIL,"Aliphatic_long_chain, Oxygen-nitrogen_single_bond, peroxide",0.431,Low drug-likeness,2.6,Easy to synthesize
+COOCCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"Aliphatic_long_chain, Oxygen-nitrogen_single_bond, peroxide",0.372,Low drug-likeness,1.74,Easy to synthesize
+COOCCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"Aliphatic_long_chain, Oxygen-nitrogen_single_bond, peroxide",0.37,Low drug-likeness,1.74,Easy to synthesize
+COOCCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"Aliphatic_long_chain, Oxygen-nitrogen_single_bond, peroxide",0.37,Low drug-likeness,1.74,Easy to synthesize
+COSc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,sulfur_oxygen_single_bond,0.67,High drug-likeness,2.52,Easy to synthesize
+COSc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,sulfur_oxygen_single_bond,0.583,Moderate drug-likeness,1.66,Easy to synthesize
+COSc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,sulfur_oxygen_single_bond,0.585,Moderate drug-likeness,1.66,Easy to synthesize
+COSc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,sulfur_oxygen_single_bond,0.585,Moderate drug-likeness,1.66,Easy to synthesize
+COc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.62,Moderate drug-likeness,2.98,Easy to synthesize
+COc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.532,Moderate drug-likeness,1.62,Easy to synthesize
+COc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.538,Moderate drug-likeness,1.62,Easy to synthesize
+COc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.538,Moderate drug-likeness,1.62,Easy to synthesize
+CSc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.596,Moderate drug-likeness,2.98,Easy to synthesize
+CSc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.518,Moderate drug-likeness,1.62,Easy to synthesize
+CSc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.531,Moderate drug-likeness,1.62,Easy to synthesize
+CSc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.531,Moderate drug-likeness,1.62,Easy to synthesize
+Cc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.53,Moderate drug-likeness,2.94,Easy to synthesize
+Cc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.459,Low drug-likeness,2.08,Easy to synthesize
+Cc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.472,Low drug-likeness,1.58,Easy to synthesize
+Cc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.472,Low drug-likeness,1.58,Easy to synthesize
+Clc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.556,Moderate drug-likeness,2.94,Easy to synthesize
+Clc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.483,Low drug-likeness,1.58,Easy to synthesize
+Clc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,2-halo_pyridine,0.467,Low drug-likeness,1.58,Easy to synthesize
+Clc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.499,Moderate drug-likeness,1.58,Easy to synthesize
+FC(F)(F)CCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.645,Moderate drug-likeness,1.78,Easy to synthesize
+FC(F)(F)CCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.673,High drug-likeness,1.78,Easy to synthesize
+FC(F)(F)Cc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,PASS,PASS,None,PASS,None,0.668,Moderate drug-likeness,2.6,Easy to synthesize
+FC(F)(F)Cc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.592,Moderate drug-likeness,1.74,Easy to synthesize
+FC(F)(F)Cc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.615,Moderate drug-likeness,1.74,Easy to synthesize
+FC(F)(F)Cc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.615,Moderate drug-likeness,1.74,Easy to synthesize
+FC(F)(F)c1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.6,Moderate drug-likeness,2.56,Easy to synthesize
+FC(F)(F)c1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.527,Moderate drug-likeness,1.7,Easy to synthesize
+FC(F)(F)c1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.547,Moderate drug-likeness,1.7,Easy to synthesize
+FC(F)(F)c1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.547,Moderate drug-likeness,1.7,Easy to synthesize
+Fc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.536,Moderate drug-likeness,2.94,Easy to synthesize
+Fc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.462,Low drug-likeness,1.58,Easy to synthesize
+Fc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,2-halo_pyridine,0.443,Low drug-likeness,1.58,Easy to synthesize
+Fc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.474,Low drug-likeness,1.58,Easy to synthesize
+N#CCCCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.685,High drug-likeness,3.1,Easy to synthesize
+N#CCCCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.599,Moderate drug-likeness,2.24,Easy to synthesize
+N#CCCCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.611,Moderate drug-likeness,1.74,Easy to synthesize
+N#CCCCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.611,Moderate drug-likeness,1.74,Easy to synthesize
+N#CCCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.697,High drug-likeness,3.06,Easy to synthesize
+N#CCCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.603,Moderate drug-likeness,1.7,Easy to synthesize
+N#CCCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.612,Moderate drug-likeness,1.7,Easy to synthesize
+N#CCCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.612,Moderate drug-likeness,1.7,Easy to synthesize
+N#CCOc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.717,High drug-likeness,2.56,Easy to synthesize
+N#CCOc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.613,Moderate drug-likeness,1.7,Easy to synthesize
+N#CCOc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.605,Moderate drug-likeness,1.7,Easy to synthesize
+N#CCOc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.605,Moderate drug-likeness,1.7,Easy to synthesize
+N#CCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.64,Moderate drug-likeness,3.02,Easy to synthesize
+N#CCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.549,Moderate drug-likeness,1.66,Easy to synthesize
+N#CCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.554,Moderate drug-likeness,1.66,Easy to synthesize
+N#CCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.554,Moderate drug-likeness,1.66,Easy to synthesize
+N#CNC(=O)c1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"cyanate_/aminonitrile_/thiocyanate, enamine",0.56,Moderate drug-likeness,2.6,Easy to synthesize
+N#CNC(=O)c1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"cyanate_/aminonitrile_/thiocyanate, enamine",0.472,Low drug-likeness,1.74,Easy to synthesize
+N#CNC(=O)c1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"cyanate_/aminonitrile_/thiocyanate, enamine",0.458,Low drug-likeness,1.74,Easy to synthesize
+N#CNC(=O)c1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"cyanate_/aminonitrile_/thiocyanate, enamine",0.458,Low drug-likeness,1.74,Easy to synthesize
+N#CNCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"cyanate_/aminonitrile_/thiocyanate, enamine",0.572,Moderate drug-likeness,2.56,Easy to synthesize
+N#CNCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"cyanate_/aminonitrile_/thiocyanate, enamine",0.485,Low drug-likeness,1.7,Easy to synthesize
+N#CNCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"cyanate_/aminonitrile_/thiocyanate, enamine",0.476,Low drug-likeness,1.7,Easy to synthesize
+N#CNCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"cyanate_/aminonitrile_/thiocyanate, enamine",0.476,Low drug-likeness,1.7,Easy to synthesize
+N#CNc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"cyanate_/aminonitrile_/thiocyanate, enamine",0.525,Moderate drug-likeness,2.52,Easy to synthesize
+N#CNc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"cyanate_/aminonitrile_/thiocyanate, enamine",0.449,Low drug-likeness,1.66,Easy to synthesize
+N#CNc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"cyanate_/aminonitrile_/thiocyanate, enamine",0.442,Low drug-likeness,1.66,Easy to synthesize
+N#CNc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"cyanate_/aminonitrile_/thiocyanate, enamine",0.442,Low drug-likeness,1.66,Easy to synthesize
+N#COC(=O)c1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,cyanate_/aminonitrile_/thiocyanate,0.521,Moderate drug-likeness,2.6,Easy to synthesize
+N#COC(=O)c1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,cyanate_/aminonitrile_/thiocyanate,0.444,Low drug-likeness,1.74,Easy to synthesize
+N#COC(=O)c1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,cyanate_/aminonitrile_/thiocyanate,0.434,Low drug-likeness,1.74,Easy to synthesize
+N#COC(=O)c1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,cyanate_/aminonitrile_/thiocyanate,0.434,Low drug-likeness,1.74,Easy to synthesize
+N#COCCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"Aliphatic_long_chain, cyanate_/aminonitrile_/thiocyanate",0.56,Moderate drug-likeness,2.6,Easy to synthesize
+N#COCCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"Aliphatic_long_chain, cyanate_/aminonitrile_/thiocyanate",0.481,Low drug-likeness,1.74,Easy to synthesize
+N#COCCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"Aliphatic_long_chain, cyanate_/aminonitrile_/thiocyanate",0.476,Low drug-likeness,1.74,Easy to synthesize
+N#COCCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"Aliphatic_long_chain, cyanate_/aminonitrile_/thiocyanate",0.476,Low drug-likeness,1.74,Easy to synthesize
+N#CSc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,cyanate_/aminonitrile_/thiocyanate,0.502,Moderate drug-likeness,2.52,Easy to synthesize
+N#CSc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,cyanate_/aminonitrile_/thiocyanate,0.435,Low drug-likeness,1.66,Easy to synthesize
+N#CSc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,cyanate_/aminonitrile_/thiocyanate,0.435,Low drug-likeness,1.66,Easy to synthesize
+N#CSc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,cyanate_/aminonitrile_/thiocyanate,0.435,Low drug-likeness,1.66,Easy to synthesize
+N#Cc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.57,Moderate drug-likeness,2.98,Easy to synthesize
+N#Cc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.488,Low drug-likeness,1.62,Easy to synthesize
+N#Cc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.491,Moderate drug-likeness,1.62,Easy to synthesize
+N#Cc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.491,Moderate drug-likeness,1.62,Easy to synthesize
+NC(=O)CCCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,PASS,PASS,None,PASS,None,0.833,High drug-likeness,2.64,Easy to synthesize
+NC(=O)CCCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.718,High drug-likeness,1.78,Easy to synthesize
+NC(=O)CCCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.718,High drug-likeness,1.78,Easy to synthesize
+NC(=O)CCCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.718,High drug-likeness,1.78,Easy to synthesize
+NC(=O)CCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.809,High drug-likeness,2.6,Easy to synthesize
+NC(=O)CCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.687,High drug-likeness,1.74,Easy to synthesize
+NC(=O)CCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.682,High drug-likeness,1.74,Easy to synthesize
+NC(=O)CCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.682,High drug-likeness,1.74,Easy to synthesize
+NC(=O)COc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,PASS,PASS,None,PASS,None,0.821,High drug-likeness,2.6,Easy to synthesize
+NC(=O)COc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.685,High drug-likeness,1.74,Easy to synthesize
+NC(=O)COc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.66,Moderate drug-likeness,1.74,Easy to synthesize
+NC(=O)COc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.66,Moderate drug-likeness,1.74,Easy to synthesize
+NC(=O)Cc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.762,High drug-likeness,2.56,Easy to synthesize
+NC(=O)Cc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.637,Moderate drug-likeness,1.7,Easy to synthesize
+NC(=O)Cc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.627,Moderate drug-likeness,1.7,Easy to synthesize
+NC(=O)Cc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.627,Moderate drug-likeness,1.7,Easy to synthesize
+NC(=O)NC(=O)c1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,PASS,PASS,None,PASS,None,0.757,High drug-likeness,2.64,Easy to synthesize
+NC(=O)NC(=O)c1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.634,Moderate drug-likeness,1.78,Easy to synthesize
+NC(=O)NC(=O)c1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.608,Moderate drug-likeness,1.78,Easy to synthesize
+NC(=O)NC(=O)c1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.608,Moderate drug-likeness,1.78,Easy to synthesize
+NC(=O)NCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,PASS,PASS,None,PASS,None,0.765,High drug-likeness,2.6,Easy to synthesize
+NC(=O)NCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.645,Moderate drug-likeness,1.74,Easy to synthesize
+NC(=O)NCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.636,Moderate drug-likeness,1.74,Easy to synthesize
+NC(=O)NCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.636,Moderate drug-likeness,1.74,Easy to synthesize
+NC(=O)Nc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.705,High drug-likeness,2.56,Easy to synthesize
+NC(=O)Nc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.598,Moderate drug-likeness,1.7,Easy to synthesize
+NC(=O)Nc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.594,Moderate drug-likeness,1.7,Easy to synthesize
+NC(=O)Nc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.594,Moderate drug-likeness,1.7,Easy to synthesize
+NC(=O)OC(=O)c1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,PASS,PASS,None,FAIL,beta-keto/anhydride,0.584,Moderate drug-likeness,2.64,Easy to synthesize
+NC(=O)OC(=O)c1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,beta-keto/anhydride,0.497,Moderate drug-likeness,1.78,Easy to synthesize
+NC(=O)OC(=O)c1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,beta-keto/anhydride,0.481,Low drug-likeness,1.78,Easy to synthesize
+NC(=O)OC(=O)c1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,beta-keto/anhydride,0.481,Low drug-likeness,1.78,Easy to synthesize
+NC(=O)OCCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,PASS,PASS,None,PASS,None,0.855,High drug-likeness,2.64,Easy to synthesize
+NC(=O)OCCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.734,High drug-likeness,1.78,Easy to synthesize
+NC(=O)OCCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.719,High drug-likeness,1.78,Easy to synthesize
+NC(=O)OCCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.719,High drug-likeness,1.78,Easy to synthesize
+NC(=O)Sc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,PASS,PASS,None,FAIL,thioester,0.724,High drug-likeness,2.56,Easy to synthesize
+NC(=O)Sc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,thioester,0.626,Moderate drug-likeness,1.7,Easy to synthesize
+NC(=O)Sc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,thioester,0.619,Moderate drug-likeness,1.7,Easy to synthesize
+NC(=O)Sc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,thioester,0.619,Moderate drug-likeness,1.7,Easy to synthesize
+NC(=O)c1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.7,High drug-likeness,2.52,Easy to synthesize
+NC(=O)c1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.586,Moderate drug-likeness,1.66,Easy to synthesize
+NC(=O)c1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.577,Moderate drug-likeness,1.66,Easy to synthesize
+NC(=O)c1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.577,Moderate drug-likeness,1.66,Easy to synthesize
+NCCCCCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.756,High drug-likeness,3.14,Easy to synthesize
+NCCCCCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.662,Moderate drug-likeness,2.28,Easy to synthesize
+NCCCCCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.673,High drug-likeness,1.78,Easy to synthesize
+NCCCCCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.673,High drug-likeness,1.78,Easy to synthesize
+NCCCCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.752,High drug-likeness,3.1,Easy to synthesize
+NCCCCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.651,Moderate drug-likeness,2.24,Easy to synthesize
+NCCCCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.658,Moderate drug-likeness,1.74,Easy to synthesize
+NCCCCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.658,Moderate drug-likeness,1.74,Easy to synthesize
+NCCCOc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,PASS,PASS,None,FAIL,Aliphatic_long_chain,0.771,High drug-likeness,2.6,Easy to synthesize
+NCCCOc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.66,Moderate drug-likeness,1.74,Easy to synthesize
+NCCCOc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.649,Moderate drug-likeness,1.74,Easy to synthesize
+NCCCOc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.649,Moderate drug-likeness,1.74,Easy to synthesize
+NCCCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.781,High drug-likeness,3.06,Easy to synthesize
+NCCCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.669,Moderate drug-likeness,1.7,Easy to synthesize
+NCCCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.672,High drug-likeness,1.7,Easy to synthesize
+NCCCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.672,High drug-likeness,1.7,Easy to synthesize
+NCCNC(=O)c1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,PASS,PASS,None,PASS,None,0.814,High drug-likeness,2.64,Easy to synthesize
+NCCNC(=O)c1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.678,High drug-likeness,1.78,Easy to synthesize
+NCCNC(=O)c1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.65,Moderate drug-likeness,1.78,Easy to synthesize
+NCCNC(=O)c1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.65,Moderate drug-likeness,1.78,Easy to synthesize
+NCCNCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,PASS,PASS,None,FAIL,Aliphatic_long_chain,0.74,High drug-likeness,2.6,Easy to synthesize
+NCCNCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.621,Moderate drug-likeness,1.74,Easy to synthesize
+NCCNCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.601,Moderate drug-likeness,1.74,Easy to synthesize
+NCCNCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.601,Moderate drug-likeness,1.74,Easy to synthesize
+NCCNc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.771,High drug-likeness,2.56,Easy to synthesize
+NCCNc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.652,Moderate drug-likeness,1.7,Easy to synthesize
+NCCNc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.636,Moderate drug-likeness,1.7,Easy to synthesize
+NCCNc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.636,Moderate drug-likeness,1.7,Easy to synthesize
+NCCOC(=O)c1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,PASS,PASS,None,PASS,None,0.796,High drug-likeness,2.64,Easy to synthesize
+NCCOC(=O)c1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.674,High drug-likeness,1.78,Easy to synthesize
+NCCOC(=O)c1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.651,Moderate drug-likeness,1.78,Easy to synthesize
+NCCOC(=O)c1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.651,Moderate drug-likeness,1.78,Easy to synthesize
+NCCOCCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,PASS,PASS,None,FAIL,Aliphatic_long_chain,0.777,High drug-likeness,2.64,Easy to synthesize
+NCCOCCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.665,Moderate drug-likeness,1.78,Easy to synthesize
+NCCOCCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.651,Moderate drug-likeness,1.78,Easy to synthesize
+NCCOCCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Aliphatic_long_chain,0.651,Moderate drug-likeness,1.78,Easy to synthesize
+NCCOc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.799,High drug-likeness,2.56,Easy to synthesize
+NCCOc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.675,High drug-likeness,1.7,Easy to synthesize
+NCCOc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.658,Moderate drug-likeness,1.7,Easy to synthesize
+NCCOc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.658,Moderate drug-likeness,1.7,Easy to synthesize
+NCCSc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,PASS,PASS,None,PASS,None,0.776,High drug-likeness,2.56,Easy to synthesize
+NCCSc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.669,Moderate drug-likeness,1.7,Easy to synthesize
+NCCSc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.663,Moderate drug-likeness,1.7,Easy to synthesize
+NCCSc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.663,Moderate drug-likeness,1.7,Easy to synthesize
+NCCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.737,High drug-likeness,3.02,Easy to synthesize
+NCCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.625,Moderate drug-likeness,1.66,Easy to synthesize
+NCCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.623,Moderate drug-likeness,1.66,Easy to synthesize
+NCCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.623,Moderate drug-likeness,1.66,Easy to synthesize
+NCNC(=O)c1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,PASS,PASS,None,FAIL,het-C-het_not_in_ring,0.721,High drug-likeness,2.6,Easy to synthesize
+NCNC(=O)c1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,het-C-het_not_in_ring,0.597,Moderate drug-likeness,1.74,Easy to synthesize
+NCNC(=O)c1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,het-C-het_not_in_ring,0.571,Moderate drug-likeness,1.74,Easy to synthesize
+NCNC(=O)c1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,het-C-het_not_in_ring,0.571,Moderate drug-likeness,1.74,Easy to synthesize
+NCNCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,het-C-het_not_in_ring,0.718,High drug-likeness,2.56,Easy to synthesize
+NCNCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,het-C-het_not_in_ring,0.6,Moderate drug-likeness,1.7,Easy to synthesize
+NCNCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,het-C-het_not_in_ring,0.58,Moderate drug-likeness,1.7,Easy to synthesize
+NCNCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,het-C-het_not_in_ring,0.58,Moderate drug-likeness,1.7,Easy to synthesize
+NCNc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,het-C-het_not_in_ring,0.681,High drug-likeness,2.52,Easy to synthesize
+NCNc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,het-C-het_not_in_ring,0.574,Moderate drug-likeness,1.66,Easy to synthesize
+NCNc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,het-C-het_not_in_ring,0.56,Moderate drug-likeness,1.66,Easy to synthesize
+NCNc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,het-C-het_not_in_ring,0.56,Moderate drug-likeness,1.66,Easy to synthesize
+NCOC(=O)c1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,PASS,PASS,None,FAIL,het-C-het_not_in_ring,0.596,Moderate drug-likeness,2.6,Easy to synthesize
+NCOC(=O)c1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,het-C-het_not_in_ring,0.501,Moderate drug-likeness,1.74,Easy to synthesize
+NCOC(=O)c1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,het-C-het_not_in_ring,0.484,Low drug-likeness,1.74,Easy to synthesize
+NCOC(=O)c1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,het-C-het_not_in_ring,0.484,Low drug-likeness,1.74,Easy to synthesize
+NCOCCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,PASS,PASS,None,FAIL,"Aliphatic_long_chain, het-C-het_not_in_ring",0.608,Moderate drug-likeness,2.6,Easy to synthesize
+NCOCCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"Aliphatic_long_chain, het-C-het_not_in_ring",0.517,Moderate drug-likeness,1.74,Easy to synthesize
+NCOCCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"Aliphatic_long_chain, het-C-het_not_in_ring",0.506,Moderate drug-likeness,1.74,Easy to synthesize
+NCOCCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"Aliphatic_long_chain, het-C-het_not_in_ring",0.506,Moderate drug-likeness,1.74,Easy to synthesize
+NCOc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,het-C-het_not_in_ring,0.706,High drug-likeness,2.52,Easy to synthesize
+NCOc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,het-C-het_not_in_ring,0.595,Moderate drug-likeness,1.66,Easy to synthesize
+NCOc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,het-C-het_not_in_ring,0.58,Moderate drug-likeness,1.66,Easy to synthesize
+NCOc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,het-C-het_not_in_ring,0.58,Moderate drug-likeness,1.66,Easy to synthesize
+NCSc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,het-C-het_not_in_ring,0.58,Moderate drug-likeness,2.52,Easy to synthesize
+NCSc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,het-C-het_not_in_ring,0.498,Moderate drug-likeness,1.66,Easy to synthesize
+NCSc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,het-C-het_not_in_ring,0.493,Moderate drug-likeness,1.66,Easy to synthesize
+NCSc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,het-C-het_not_in_ring,0.493,Moderate drug-likeness,1.66,Easy to synthesize
+NCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.675,High drug-likeness,2.98,Easy to synthesize
+NCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.572,Moderate drug-likeness,1.62,Easy to synthesize
+NCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.57,Moderate drug-likeness,1.62,Easy to synthesize
+NCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.57,Moderate drug-likeness,1.62,Easy to synthesize
+NNC(=O)c1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"Oxygen-nitrogen_single_bond, acyl_hydrazine, hydrazine",0.402,Low drug-likeness,2.56,Easy to synthesize
+NNC(=O)c1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"Oxygen-nitrogen_single_bond, acyl_hydrazine, hydrazine",0.331,Low drug-likeness,1.7,Easy to synthesize
+NNC(=O)c1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"Oxygen-nitrogen_single_bond, acyl_hydrazine, hydrazine",0.317,Low drug-likeness,1.7,Easy to synthesize
+NNC(=O)c1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"Oxygen-nitrogen_single_bond, acyl_hydrazine, hydrazine",0.317,Low drug-likeness,1.7,Easy to synthesize
+NNCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"Oxygen-nitrogen_single_bond, hydrazine",0.535,Moderate drug-likeness,2.52,Easy to synthesize
+NNCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"Oxygen-nitrogen_single_bond, hydrazine",0.446,Low drug-likeness,1.66,Easy to synthesize
+NNCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"Oxygen-nitrogen_single_bond, hydrazine",0.431,Low drug-likeness,1.66,Easy to synthesize
+NNCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"Oxygen-nitrogen_single_bond, hydrazine",0.431,Low drug-likeness,1.66,Easy to synthesize
+NNc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"Oxygen-nitrogen_single_bond, hydrazine",0.493,Moderate drug-likeness,2.48,Easy to synthesize
+NNc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"Oxygen-nitrogen_single_bond, hydrazine",0.415,Low drug-likeness,1.62,Easy to synthesize
+NNc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"Oxygen-nitrogen_single_bond, hydrazine",0.404,Low drug-likeness,1.62,Easy to synthesize
+NNc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"Oxygen-nitrogen_single_bond, hydrazine",0.404,Low drug-likeness,1.62,Easy to synthesize
+NOC(=O)c1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Oxygen-nitrogen_single_bond,0.693,High drug-likeness,2.56,Easy to synthesize
+NOC(=O)c1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Oxygen-nitrogen_single_bond,0.58,Moderate drug-likeness,1.7,Easy to synthesize
+NOC(=O)c1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Oxygen-nitrogen_single_bond,0.559,Moderate drug-likeness,1.7,Easy to synthesize
+NOC(=O)c1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Oxygen-nitrogen_single_bond,0.559,Moderate drug-likeness,1.7,Easy to synthesize
+NOCCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Oxygen-nitrogen_single_bond,0.748,High drug-likeness,2.56,Easy to synthesize
+NOCCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Oxygen-nitrogen_single_bond,0.633,Moderate drug-likeness,1.7,Easy to synthesize
+NOCCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Oxygen-nitrogen_single_bond,0.619,Moderate drug-likeness,1.7,Easy to synthesize
+NOCCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Oxygen-nitrogen_single_bond,0.619,Moderate drug-likeness,1.7,Easy to synthesize
+NSc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,sulphur_nitrogen_single_bond,0.674,High drug-likeness,2.48,Easy to synthesize
+NSc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,sulphur_nitrogen_single_bond,0.577,Moderate drug-likeness,1.62,Easy to synthesize
+NSc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,sulphur_nitrogen_single_bond,0.571,Moderate drug-likeness,1.62,Easy to synthesize
+NSc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,sulphur_nitrogen_single_bond,0.571,Moderate drug-likeness,1.62,Easy to synthesize
+Nc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,aniline,0.563,Moderate drug-likeness,2.94,Easy to synthesize
+Nc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,aniline,0.48,Low drug-likeness,1.58,Easy to synthesize
+Nc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.513,Moderate drug-likeness,1.58,Easy to synthesize
+Nc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.513,Moderate drug-likeness,1.58,Easy to synthesize
+O=C(NO)c1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"Oxygen-nitrogen_single_bond, hydroxamic_acid",0.529,Moderate drug-likeness,2.56,Easy to synthesize
+O=C(NO)c1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"Oxygen-nitrogen_single_bond, hydroxamic_acid",0.444,Low drug-likeness,1.7,Easy to synthesize
+O=C(NO)c1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"Oxygen-nitrogen_single_bond, hydroxamic_acid",0.43,Low drug-likeness,1.7,Easy to synthesize
+O=C(NO)c1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"Oxygen-nitrogen_single_bond, hydroxamic_acid",0.43,Low drug-likeness,1.7,Easy to synthesize
+O=C(O)CCCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,PASS,PASS,None,PASS,None,0.848,High drug-likeness,2.64,Easy to synthesize
+O=C(O)CCCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.739,High drug-likeness,1.78,Easy to synthesize
+O=C(O)CCCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.735,High drug-likeness,1.78,Easy to synthesize
+O=C(O)CCCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.735,High drug-likeness,1.78,Easy to synthesize
+O=C(O)CCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,PASS,PASS,None,PASS,None,0.827,High drug-likeness,2.6,Easy to synthesize
+O=C(O)CCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.712,High drug-likeness,1.74,Easy to synthesize
+O=C(O)CCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.703,High drug-likeness,1.74,Easy to synthesize
+O=C(O)CCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.703,High drug-likeness,1.74,Easy to synthesize
+O=C(O)COc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,PASS,PASS,None,PASS,None,0.83,High drug-likeness,2.6,Easy to synthesize
+O=C(O)COc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.706,High drug-likeness,1.74,Easy to synthesize
+O=C(O)COc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.688,High drug-likeness,1.74,Easy to synthesize
+O=C(O)COc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.688,High drug-likeness,1.74,Easy to synthesize
+O=C(O)Cc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.782,High drug-likeness,2.56,Easy to synthesize
+O=C(O)Cc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.665,Moderate drug-likeness,1.7,Easy to synthesize
+O=C(O)Cc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.653,Moderate drug-likeness,1.7,Easy to synthesize
+O=C(O)Cc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.653,Moderate drug-likeness,1.7,Easy to synthesize
+O=C(O)NC(=O)c1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,PASS,PASS,None,PASS,None,0.766,High drug-likeness,2.64,Easy to synthesize
+O=C(O)NC(=O)c1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.654,Moderate drug-likeness,1.78,Easy to synthesize
+O=C(O)NC(=O)c1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.636,Moderate drug-likeness,1.78,Easy to synthesize
+O=C(O)NC(=O)c1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.636,Moderate drug-likeness,1.78,Easy to synthesize
+O=C(O)NCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,PASS,PASS,None,PASS,None,0.784,High drug-likeness,2.6,Easy to synthesize
+O=C(O)NCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.672,High drug-likeness,1.74,Easy to synthesize
+O=C(O)NCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.66,Moderate drug-likeness,1.74,Easy to synthesize
+O=C(O)NCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.66,Moderate drug-likeness,1.74,Easy to synthesize
+O=C(O)Nc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.721,High drug-likeness,2.56,Easy to synthesize
+O=C(O)Nc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.619,Moderate drug-likeness,1.7,Easy to synthesize
+O=C(O)Nc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.612,Moderate drug-likeness,1.7,Easy to synthesize
+O=C(O)Nc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.612,Moderate drug-likeness,1.7,Easy to synthesize
+O=C(O)OC(=O)c1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,PASS,PASS,None,FAIL,beta-keto/anhydride,0.588,Moderate drug-likeness,2.64,Easy to synthesize
+O=C(O)OC(=O)c1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,beta-keto/anhydride,0.507,Moderate drug-likeness,1.78,Easy to synthesize
+O=C(O)OC(=O)c1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,beta-keto/anhydride,0.497,Moderate drug-likeness,1.78,Easy to synthesize
+O=C(O)OC(=O)c1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,beta-keto/anhydride,0.497,Moderate drug-likeness,1.78,Easy to synthesize
+O=C(O)OCCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,PASS,PASS,None,PASS,None,0.802,High drug-likeness,2.64,Easy to synthesize
+O=C(O)OCCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.698,High drug-likeness,1.78,Easy to synthesize
+O=C(O)OCCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.689,High drug-likeness,1.78,Easy to synthesize
+O=C(O)OCCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.689,High drug-likeness,1.78,Easy to synthesize
+O=C(O)Sc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,PASS,PASS,None,FAIL,thioester,0.721,High drug-likeness,2.56,Easy to synthesize
+O=C(O)Sc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,thioester,0.631,Moderate drug-likeness,1.7,Easy to synthesize
+O=C(O)Sc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,thioester,0.629,Moderate drug-likeness,1.7,Easy to synthesize
+O=C(O)Sc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,thioester,0.629,Moderate drug-likeness,1.7,Easy to synthesize
+O=C(O)c1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.717,High drug-likeness,2.52,Easy to synthesize
+O=C(O)c1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.611,Moderate drug-likeness,1.66,Easy to synthesize
+O=C(O)c1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.6,Moderate drug-likeness,1.66,Easy to synthesize
+O=C(O)c1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.6,Moderate drug-likeness,1.66,Easy to synthesize
+O=C(OO)c1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"Oxygen-nitrogen_single_bond, peroxide",0.552,Moderate drug-likeness,2.56,Easy to synthesize
+O=C(OO)c1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"Oxygen-nitrogen_single_bond, peroxide",0.47,Low drug-likeness,1.7,Easy to synthesize
+O=C(OO)c1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"Oxygen-nitrogen_single_bond, peroxide",0.459,Low drug-likeness,1.7,Easy to synthesize
+O=C(OO)c1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"Oxygen-nitrogen_single_bond, peroxide",0.459,Low drug-likeness,1.7,Easy to synthesize
+OCCCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.781,High drug-likeness,3.06,Easy to synthesize
+OCCCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.669,Moderate drug-likeness,1.7,Easy to synthesize
+OCCCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.674,High drug-likeness,1.7,Easy to synthesize
+OCCCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.674,High drug-likeness,1.7,Easy to synthesize
+OCCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.737,High drug-likeness,3.02,Easy to synthesize
+OCCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.625,Moderate drug-likeness,1.66,Easy to synthesize
+OCCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.625,Moderate drug-likeness,1.66,Easy to synthesize
+OCCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.625,Moderate drug-likeness,1.66,Easy to synthesize
+OCOc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,het-C-het_not_in_ring,0.707,High drug-likeness,2.52,Easy to synthesize
+OCOc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,het-C-het_not_in_ring,0.596,Moderate drug-likeness,1.66,Easy to synthesize
+OCOc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,het-C-het_not_in_ring,0.582,Moderate drug-likeness,1.66,Easy to synthesize
+OCOc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,het-C-het_not_in_ring,0.582,Moderate drug-likeness,1.66,Easy to synthesize
+OCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.675,High drug-likeness,2.98,Easy to synthesize
+OCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.572,Moderate drug-likeness,1.62,Easy to synthesize
+OCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.572,Moderate drug-likeness,1.62,Easy to synthesize
+OCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,PASS,None,0.572,Moderate drug-likeness,1.62,Easy to synthesize
+ONCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Oxygen-nitrogen_single_bond,0.683,High drug-likeness,2.52,Easy to synthesize
+ONCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Oxygen-nitrogen_single_bond,0.578,Moderate drug-likeness,1.66,Easy to synthesize
+ONCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Oxygen-nitrogen_single_bond,0.566,Moderate drug-likeness,1.66,Easy to synthesize
+ONCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Oxygen-nitrogen_single_bond,0.566,Moderate drug-likeness,1.66,Easy to synthesize
+ONc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Oxygen-nitrogen_single_bond,0.627,Moderate drug-likeness,2.48,Easy to synthesize
+ONc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Oxygen-nitrogen_single_bond,0.535,Moderate drug-likeness,1.62,Easy to synthesize
+ONc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Oxygen-nitrogen_single_bond,0.527,Moderate drug-likeness,1.62,Easy to synthesize
+ONc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,Oxygen-nitrogen_single_bond,0.527,Moderate drug-likeness,1.62,Easy to synthesize
+OOCCc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"Oxygen-nitrogen_single_bond, peroxide",0.592,Moderate drug-likeness,2.56,Easy to synthesize
+OOCCc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"Oxygen-nitrogen_single_bond, peroxide",0.509,Moderate drug-likeness,1.7,Easy to synthesize
+OOCCc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"Oxygen-nitrogen_single_bond, peroxide",0.504,Moderate drug-likeness,1.7,Easy to synthesize
+OOCCc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,"Oxygen-nitrogen_single_bond, peroxide",0.504,Moderate drug-likeness,1.7,Easy to synthesize
+OSc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,sulfur_oxygen_single_bond,0.672,High drug-likeness,2.48,Easy to synthesize
+OSc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,sulfur_oxygen_single_bond,0.582,Moderate drug-likeness,1.62,Easy to synthesize
+OSc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,sulfur_oxygen_single_bond,0.582,Moderate drug-likeness,1.62,Easy to synthesize
+OSc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,sulfur_oxygen_single_bond,0.582,Moderate drug-likeness,1.62,Easy to synthesize
+Sc1cccc2ccccc12,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,thiol_2,0.562,Moderate drug-likeness,2.94,Easy to synthesize
+Sc1ccccc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,thiol_2,0.485,Low drug-likeness,1.58,Easy to synthesize
+Sc1ccccn1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,thiol_2,0.499,Moderate drug-likeness,1.58,Easy to synthesize
+Sc1cccnc1,PASS,PASS,0,PASS,FAIL,PASS,FAIL,PASS,None,FAIL,thiol_2,0.499,Moderate drug-likeness,1.58,Easy to synthesize
